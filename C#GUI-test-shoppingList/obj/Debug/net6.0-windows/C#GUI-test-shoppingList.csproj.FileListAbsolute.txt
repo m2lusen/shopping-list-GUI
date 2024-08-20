@@ -1,0 +1,16 @@
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\bin\Debug\net6.0-windows\C#GUI-test-shoppingList.exe
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\bin\Debug\net6.0-windows\C#GUI-test-shoppingList.deps.json
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\bin\Debug\net6.0-windows\C#GUI-test-shoppingList.runtimeconfig.json
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\bin\Debug\net6.0-windows\C#GUI-test-shoppingList.dll
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\bin\Debug\net6.0-windows\C#GUI-test-shoppingList.pdb
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C_GUI_test_shoppingList.Form1.resources
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.csproj.GenerateResource.cache
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.AssemblyInfoInputs.cache
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.AssemblyInfo.cs
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.csproj.CoreCompileInputs.cache
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.dll
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\refint\C#GUI-test-shoppingList.dll
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.pdb
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\C#GUI-test-shoppingList.genruntimeconfig.cache
+C:\Users\m2lus\source\repos\C#GUI-test-shoppingList\C#GUI-test-shoppingList\obj\Debug\net6.0-windows\ref\C#GUI-test-shoppingList.dll

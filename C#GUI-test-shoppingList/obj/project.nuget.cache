@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWdqBmwnJZQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m2lus\\Documents\\GitHub\\shopping-list-GUI\\C#GUI-test-shoppingList\\C#GUI-test-shoppingList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m2lus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
